@@ -148,7 +148,7 @@ const Home = () => {
     name: 'Sayooj VP',
     title: 'Full Stack Developer / Entrepreneur',
     bio: 'I’m a self-taught full-stack web developer and aspiring entrepreneur, passionate about building clean, functional digital experiences. Currently open to opportunities at startups and always up for meaningful collaborations.',
-    photoUrl: 'https://media.licdn.com/dms/image/v2/D5603AQFFxWMruIXZ9w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698772918229?e=1755734400&v=beta&t=FGGbQn6vVqOSZ-3sFilxKOAuNyycTESvJD4G3J1Mpfc',
+    photoUrl: 'https://instagram.fccj9-1.fna.fbcdn.net/v/t51.2885-19/502479719_18024503582693178_4162555085376803102_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fccj9-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGgBxXBeEbpT5V8-Mo_-mmn19UNL3tshF08ehAjHzBXVYFYnHSEEkY7xPqhwGXe4Z4&_nc_ohc=uBs7KUoGuv0Q7kNvwGFSMQh&_nc_gid=O5OLqZ3t41v18XxPi85k7g&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfMi3nzQgUnbGs5ENRnOHS5l5SnblrNWr9XPysfwDX9jTg&oe=68596867&_nc_sid=7a9f4b',
   });
   const [loading, setLoading] = useState(false);
 
